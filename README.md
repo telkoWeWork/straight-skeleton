@@ -1,4 +1,6 @@
-# straight-skeleton
+# telkoWeWork/straight-skeleton
+
+A fork of https://github.com/vHawk/straight-skeleton that compiles to commonjs.
 
 ![](https://i.imgur.com/ecT8io4.png)
 
@@ -15,7 +17,7 @@ This port, like the original library, doesn't rely on any external math libs. Th
 
 ## Installation
 
-`npm i straight-skeleton`
+`npm i telkoWeWork/straight-skeleton`
 
 ## Usage
 
